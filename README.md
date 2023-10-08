@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://app.daily.dev/LucasMdr">
-  <img src="https://api.daily.dev/devcards/96976ff8bda34de582b9144cf9f33d5c.png?r=9tb" width="250" alt="Lucas Madranges's Dev Card"/>
+  <img src="https://github.com/LucasMadranges/LucasMadranges/blob/main/devcard.svg" width="250" alt="Lucas Madranges's Dev Card"/>
 </a>
 
 <!--
