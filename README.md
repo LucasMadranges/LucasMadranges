@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/LucasMdr">
+<a href="https://app.daily.dev/LucasMdr" target="_blank">
   <img src="https://github.com/LucasMadranges/LucasMadranges/blob/main/devcard.svg" width="250" alt="Lucas Madranges's Dev Card"/>
 </a>
 
