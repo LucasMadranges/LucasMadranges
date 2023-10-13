@@ -5,7 +5,7 @@
 </h1>
 
 <a href="https://app.daily.dev/LucasMdr" target="_blank">
-  <img src="https://github.com/LucasMadranges/LucasMadranges/blob/main/devcard.svg" width="250" alt="Lucas Madranges's Dev Card"/>
+  <img src="https://github.com/LucasMadranges/LucasMadranges/blob/main/devcard.svg" width="400" alt="Lucas Madranges"/>
 </a>
 
 <!--
