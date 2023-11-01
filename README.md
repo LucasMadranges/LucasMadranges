@@ -28,9 +28,9 @@
     }
 </style>
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Lucas Madranges&fontSize=50" />
+
 # 💫 About Me:
 I'm Lucas Madranges
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-madranges/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/babyluckyyy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Lucas_Mdrg)
@@ -56,5 +56,3 @@ I'm Lucas Madranges
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LucasMadranges&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
