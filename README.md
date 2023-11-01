@@ -31,8 +31,9 @@
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Lucas%20Madranges&fontSize=80&animation=fadeIn&fontAlignY=38&&descAlignY=51&descAlign=62)
 # 💫 About Me:
-<p align="center">
+<p align="center" style="font-size: 16px">
 Hi, I'm Lucas Madranges, I'm 20 and i'm French.
+<br>
 <br>
 I'm currently taking a professional title on Web development at higher school <a href="https://www.mydigitalschool.com">MyDigitalSchool</a>.
 <br>
