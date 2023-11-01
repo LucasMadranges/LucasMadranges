@@ -27,6 +27,7 @@
         -webkit-text-fill-color: transparent;
     }
 </style>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Lucas Madranges&fontSize=50" />
 <h1 align="center">
     <a href="http://github.com/LucasMadranges" class="gradient-purple">
         Lucas Madranges
