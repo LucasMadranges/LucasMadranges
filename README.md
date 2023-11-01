@@ -36,7 +36,7 @@ I'm Lucas Madranges and i'm 20.
 <br>
 I'm currently taking a professional title on Web development at higher school <a href="https://www.mydigitalschool.com">MyDigitalSchool</a>.
 <br>
-I'm currently a Front-end developper at Agence Intuition.
+I'm currently a Front-end developer at <a href="http://agence-intuition.fr">Agence Intuition</a>.
 <br>
 </p>
 
@@ -60,7 +60,7 @@ I'm currently a Front-end developper at Agence Intuition.
 ![](https://github-contributor-stats.vercel.app/api?username=LucasMadranges&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ## 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="Dev meme"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LucasMadranges&icon=1&color=0)](https://visitcount.itsvg.in)
