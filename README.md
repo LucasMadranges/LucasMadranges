@@ -35,15 +35,15 @@
 Hi, I'm Lucas Madranges, I'm 20 and i'm French.
 <br>
 <br>
-I'm currently taking a professional title on Web development at higher school <a href="https://www.mydigitalschool.com">MyDigitalSchool</a>.
+🎓 I'm currently taking a professional title on Web development at higher school <a href="https://www.mydigitalschool.com">MyDigitalSchool</a>.
 <br>
-I'm currently a Front-end developer at <a href="http://agence-intuition.fr">Agence Intuition</a>.
+💻 I'm currently a Front-end developer at <a href="http://agence-intuition.fr">Agence Intuition</a>.
 <br>
-I graduated of an Advanced Technician's Certificate (BTS in French).
+🎓 I graduated of an Advanced Technician's Certificate (BTS in French).
+<br> 
+❤️ I love writing code on everything and learn about new technology.
 <br>
-I love writing code on everything and learn about new technology.
-<br>
-If you want to reach me : <a href="mailto:lucas.madranges.pro@icloud.com">lucas.madranges.pro@icloud.com</a>.
+📫 If you want to reach me : <a href="mailto:lucas.madranges.pro@icloud.com">lucas.madranges.pro@icloud.com</a>.
 </p>
 
 ## 🌐 Socials:
