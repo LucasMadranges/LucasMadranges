@@ -2,18 +2,18 @@
 [![](https://visitcount.itsvg.in/api?id=LucasMadranges&icon=1&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">💫 About Me 💫</h1>
 <p align="center">
-Hi, I'm Lucas Madranges, I'm 20 and i'm French.
-<br>
-<br>
-🎓 I'm currently taking a professional title on Web development at higher school <a href="https://www.mydigitalschool.com">MyDigitalSchool</a>.
-<br>
-💻 I'm currently a Front-end developer at <a href="http://agence-intuition.fr">Agence Intuition</a>.
-<br>
-🎓 I graduated of an Advanced Technician's Certificate (BTS in French).
-<br> 
-❤️ I love writing code on everything and learn about new technology.
-<br>
-📫 If you want to reach me : <a href="mailto:lucas.madranges.pro@icloud.com">lucas.madranges.pro@icloud.com</a>.
+    Hi, I'm Lucas Madranges, I'm 20 and i'm French.
+    <br>
+    <br>
+    🎓 I'm currently taking a professional title on Web development at higher school <a href="https://www.mydigitalschool.com">MyDigitalSchool</a>.
+    <br>
+    💻 I'm currently a Front-end developer at <a href="http://agence-intuition.fr">Agence Intuition</a>.
+    <br>
+    🎓 I graduated of an Advanced Technician's Certificate (BTS in French).
+    <br> 
+    ❤️ I love writing code on everything and learn about new technology.
+    <br>
+    📫 If you want to reach me : <a href="mailto:lucas.madranges.pro@icloud.com">lucas.madranges.pro@icloud.com</a>.
 </p>
 
 <h2 align="center">🌐 My Social Link 🌐</h2>
