@@ -29,8 +29,7 @@
     }
 </style>
 -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Lucas Madranges&fontSize=50" />
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Lucas%20Madranges&fontSize=80)
 # 💫 About Me:
 I'm Lucas Madranges
 
