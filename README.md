@@ -15,7 +15,7 @@ Hi, I'm Lucas Madranges, I'm 20 and i'm French.
 📫 If you want to reach me : <a href="mailto:lucas.madranges.pro@icloud.com">lucas.madranges.pro@icloud.com</a>.
 </p>
 
-## 🌐 My Social Link
+<h2 align="center">🌐 My Social Link 🌐</h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-madranges/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/babyluckyyy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Lucas_Mdrg)
 
 ## 💻 My Language and Framework 💻
