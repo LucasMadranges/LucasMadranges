@@ -31,9 +31,9 @@
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Lucas%20Madranges&fontSize=80&animation=fadeIn&fontAlignY=38&&descAlignY=51&descAlign=62)
 # 💫 About Me:
-I'm Lucas Madranges and i'm 20.
-I'm currently taking a professional title on Web development at higher school <a href="https://www.mydigitalschool.com">MyDigitalSchool</a>.
-I'm currently a Front-end developper at Agence Intuition.
+I'm Lucas Madranges and i'm 20.<br>
+I'm currently taking a professional title on Web development at higher school <a href="https://www.mydigitalschool.com">MyDigitalSchool</a>.<br>
+I'm currently a Front-end developper at Agence Intuition.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-madranges) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/babyluckyyy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Lucas_Mdrg)
