@@ -32,12 +32,25 @@
 
 <h2 align="center">📊 My GitHub Stats 📊</h2>
 
-<div align="center">
+<p align=center>
+    <div align=center>
+        <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+            <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=LucasMadranges&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="zumrudu-anka" />
+        </a>
+        <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+            <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=LucasMadranges&theme=radical&hide_border=false" />
+        </a>
+    </div>
+    <br><br><br><br><br><br><br><br><br> 
+    <div align=center>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMadranges&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+        </a>
+    </div>
+    <br>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasMadranges&bg_color=141320&color=BCFCF6&point=BCFCF6&title_color=EA538D&line=EA538D&hide_border=false" width="100%"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=LucasMadranges&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=LucasMadranges&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMadranges&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-</div>
 
 <h2 align="center">🏆 My GitHub Trophies 🏆</h2>
 
