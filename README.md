@@ -41,7 +41,6 @@
             <img align="right" width=425 src="https://github-readme-streak-stats.herokuapp.com/?user=LucasMadranges&theme=radical&hide_border=false" />
         </a>
     </div>
-    <br><br><br><br><br><br><br><br><br>
     <div align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
             <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMadranges&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
