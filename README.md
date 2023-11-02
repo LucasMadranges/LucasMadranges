@@ -45,7 +45,6 @@
     <div align="center">
         <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMadranges&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
     </div>
-    <br>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasMadranges&bg_color=141320&color=BCFCF6&point=BCFCF6&title_color=EA538D&line=EA538D&hide_border=false&radius=8" width="100%"/>
 </div>
 
