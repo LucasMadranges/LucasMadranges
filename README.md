@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100%&height=300&desc=Web%20Developer%20at%20MyDigitalSchool%20and%20Agence%20Intuition&section=header&text=Lucas%20Madranges&fontSize=80&animation=fadeIn&fontAlignY=38&&descAlignY=56&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100%&height=300&desc=Web%20Developer%20at%20MyDigitalSchool%20and%20Agence%20Intuition&section=header&text=Lucas%20Madranges&fontSize=80&animation=fadeIn&fontAlignY=38)
 [![](https://visitcount.itsvg.in/api?id=LucasMadranges&icon=1&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">💫 About Me 💫</h1>
 <p align="center">
