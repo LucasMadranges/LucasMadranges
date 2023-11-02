@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100&height=300&desc=Web%20Developer%20at%20MyDigitalSchool%20and%20Agence%20Intuition&section=header&text=Lucas%20Madranges&fontSize=80&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&desc=Web%20Developer%20at%20MyDigitalSchool%20and%20Agence%20Intuition&section=header&text=Lucas%20Madranges&fontSize=80&animation=fadeIn&fontAlignY=38)
 [![](https://visitcount.itsvg.in/api?id=LucasMadranges&icon=1&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">💫 About Me 💫</h1>
 <p align="center">
@@ -26,9 +26,12 @@
 
 <h2 align="center">📊 My GitHub Stats 📊</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=LucasMadranges&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LucasMadranges&theme=radical&hide_border=false)<br/>
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=LucasMadranges&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=LucasMadranges&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMadranges&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+</div>
 
 <h2 align="center">🏆 My GitHub Trophies 🏆</h2>
 
