@@ -32,7 +32,7 @@
 
 <h2 align="center">📊 My GitHub Stats 📊</h2>
 
-<p align=center>
+<div align=center>
     <div align=center>
         <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
             <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=LucasMadranges&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="zumrudu-anka" />
@@ -49,7 +49,7 @@
     </div>
     <br>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasMadranges&bg_color=141320&color=BCFCF6&point=BCFCF6&title_color=EA538D&line=EA538D&hide_border=false" width="100%"/>
-</p>
+</div>
 
 
 <h2 align="center">🏆 My GitHub Trophies 🏆</h2>
