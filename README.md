@@ -44,6 +44,4 @@
 
 <h2 align="center">😂 Random Dev Meme 😂</h2>
 
-<div style="display: flex; justify-content: center;">
-    <img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="Dev meme"/>
-</div>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="Dev meme" align="center"/>
