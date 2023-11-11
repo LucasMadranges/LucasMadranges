@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&desc=Web%20Developer%20at%20MyDigitalSchool%20and%20Agence%20Intuition&section=header&text=Lucas%20Madranges&fontSize=80&animation=fadeIn&fontAlignY=38)
-[![](https://visitcount.itsvg.in/api?id=LucasMadranges&label=&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=LucasMadranges&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <h1 align="center">💫 About Me 💫</h1>
 <p align="center">
     Hi, I'm Lucas Madranges, I'm 20 and i'm French 🇫🇷
