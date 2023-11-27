@@ -15,7 +15,7 @@
     <br>
     📫 If you want to reach me : <a href="mailto:lucas.madranges.pro@icloud.com">lucas.madranges.pro@icloud.com</a>
     <br>
-    🔗 My portfolio : <a href="https://lucas-madrangges.fr">lucas-madranges.fr</a>
+    🔗 My portfolio : <a href="https://lucas-madranges.fr">lucas-madranges.fr</a>
 </p>
 
 <h2 align="center">🌐 My Social Link 🌐</h2>
