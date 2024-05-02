@@ -98,6 +98,16 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasMadranges&bg_color=141320&color=BCFCF6&point=BCFCF6&title_color=EA538D&line=EA538D&hide_border=false&radius=8" width="100%"/>
 </div>
 
+<h2 align="center">📝 Download my Resume 📝</h2>
+
+<p align="center">📷 Scan the QR Code below or click on it 🐭</p>
+
+<div align="center">
+    <a href='https://drive.google.com/file/d/1kda08AA4qTIINuFkuKbY7did7UCbY_3P/view?usp=drive_link' style="height: 100px;" alt="Dev meme" align="center">
+        <img src="img/qr-code.svg" style="width: 250px; border-radius: 12px" />
+    </a>
+</div>
+
 <h2 align="center">😂 Random Dev Meme 😂</h2>
 
 <div align="center">
