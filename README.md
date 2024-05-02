@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<h3 align="center">Front-end: </h3>
+<h3 align="center">🌝 Front-end: </h3>
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
@@ -44,7 +44,7 @@
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-<h3 align="center">Back-end: </h3>
+<h3 align="center">🌚 Back-end: </h3>
 
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
 ![Symfony Badge](https://img.shields.io/badge/Symfony-000?logo=symfony&logoColor=fff&style=for-the-badge)
@@ -53,15 +53,15 @@
 ![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
 ![NestJS Badge](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge)
-<h3 align="center">Mobile: </h3>
+<h3 align="center">📱 Mobile: </h3>
 
 ![Dart Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=for-the-badge)
 ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)
-<h3 align="center">Desktop: </h3>
+<h3 align="center">💻 Desktop: </h3>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C# Badge](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge)
-<h3 align="center">Tools: </h3>
+<h3 align="center">🛠️ Tools : </h3>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -79,7 +79,6 @@
 ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=for-the-badge)
 </div>
 
-<!-- <h2 align="center">💻 My Tools 💻</h2> -->
 <h2 align="center">📊 My GitHub Stats 📊</h2>
 
 <div>
@@ -97,28 +96,6 @@
     </div>
     <br>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasMadranges&bg_color=141320&color=BCFCF6&point=BCFCF6&title_color=EA538D&line=EA538D&hide_border=false&radius=8" width="100%"/>
-</div>
-
-
-<h2 align="center">🏆 My GitHub Trophies 🏆</h2>
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=LucasMadranges&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-</div>
-
-<h2 align="center">✍️ Random Dev Quote ✍️</h2>
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
-
-<h2 align="center">🔝 My Top Contributed Repo 🔝</h2>
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=LucasMadranges&limit=5&theme=radical&combine_all_yearly_contributions=true)
 </div>
 
 <h2 align="center">😂 Random Dev Meme 😂</h2>
