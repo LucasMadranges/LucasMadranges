@@ -24,7 +24,7 @@
 
 <div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/lucas-madranges/)
+<a href="https://www.linkedin.com/in/lucas-madranges/" target="_blank" >![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)</a>
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff&style=for-the-badge)](https://www.twitch.tv/babyluckyyy)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/Lucas_Mdrg)
 </div>
@@ -103,7 +103,7 @@
 <p align="center">📷 Scan the QR Code below or click on it 🐭</p>
 
 <div align="center">
-    <a href='https://drive.google.com/file/d/1kda08AA4qTIINuFkuKbY7did7UCbY_3P/view?usp=drive_link' style="height: 100px;" alt="Dev meme" align="center">
+    <a target="_blank" href='https://drive.google.com/file/d/1kda08AA4qTIINuFkuKbY7did7UCbY_3P/view?usp=drive_link' style="height: 100px;" alt="Dev meme" align="center">
         <img src="img/qr-code.svg" style="width: 250px; border-radius: 12px" />
     </a>
 </div>
