@@ -102,8 +102,8 @@
 
 <p align="center">📷 Scan the QR Code below or click on it 🐭</p>
 
-<div align="center">
-    <a href='https://drive.google.com/file/d/1kda08AA4qTIINuFkuKbY7did7UCbY_3P/view?usp=drive_link' style="height: 100px;" alt="Dev meme" align="center">
+<div align="center" style="border-radius: 12px">
+    <a style="border-radius: 12px" href='https://drive.google.com/file/d/1kda08AA4qTIINuFkuKbY7did7UCbY_3P/view?usp=sharing' style="height: 100px;" alt="Dev meme" align="center">
         <img src="img/qr-code.svg" style="width: 250px; border-radius: 12px" />
     </a>
 </div>
