@@ -123,10 +123,11 @@
         <img src="img/qr-code.svg" style="width: 250px; border-radius: 12px" />
     </a>
 </div>
-
+<!--
 <h2 align="center">😂 Random Dev Meme 😂</h2>
 
 <div align="center">
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;" alt="Dev meme" align="center"/>
 </div>
+-->
