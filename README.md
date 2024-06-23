@@ -112,6 +112,9 @@
     </div>
     <br>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasMadranges&bg_color=141320&color=BCFCF6&point=BCFCF6&title_color=EA538D&line=EA538D&hide_border=false&radius=8" width="100%"/>
+    <div align="center">
+        <img src="https://github-contributor-stats.vercel.app/api?username=LucasMadranges&bg_color=141320&color=BCFCF6&point=BCFCF6&text_color=BCFCF6&title_color=EA538D&line=EA538D&hide_border=false&radius=8" />
+    </div>
 </div>
 
 <h2 align="center">📝 Download my Resume 📝</h2>
