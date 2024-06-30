@@ -104,24 +104,16 @@
 
 <h2 align="center">📊 My GitHub Stats 📊</h2>
 
-<div>
-    <div>
-        <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-            <img align="left" width=360 src="https://github-readme-stats.vercel.app/api?username=LucasMadranges&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="zumrudu-anka" />
-        </a>
-        <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-            <img align="right" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=LucasMadranges&theme=radical&hide_border=false" />
-        </a>
-    </div>
-    <br><br><br><br><br><br><br><br>
-    <div align="center">
-        <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMadranges&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
-    </div>
-    <br>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=LucasMadranges&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="zumrudu-anka" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasMadranges&theme=radical&hide_border=false" />
+    <br/>
+    <img height=275 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMadranges&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=LucasMadranges&bg_color=141320&color=BCFCF6&point=BCFCF6&text_color=BCFCF6&title_color=EA538D&line=EA538D&hide_border=false&radius=8" />
+    <br/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasMadranges&bg_color=141320&color=BCFCF6&point=BCFCF6&title_color=EA538D&line=EA538D&hide_border=false&radius=8" width="100%"/>
-    <div align="center">
-        <img src="https://github-contributor-stats.vercel.app/api?username=LucasMadranges&bg_color=141320&color=BCFCF6&point=BCFCF6&text_color=BCFCF6&title_color=EA538D&line=EA538D&hide_border=false&radius=8" />
-    </div>
+    <br/>
+    <a href="https://app.daily.dev/lucasmdr"><img src="https://api.daily.dev/devcards/v2/lSUW6F7l2PsTxRsaWWpNx.png?r=qv1&type=wide" width="652" alt="Lucas Madranges's Dev Card"/></a>
 </div>
 
 <h2 align="center">📝 Download my Resume 📝</h2>
