@@ -105,10 +105,8 @@
 <h2 align="center">📊 My GitHub Stats 📊</h2>
 
 <div align="center">
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=LucasMadranges&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="zumrudu-anka" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasMadranges&theme=radical&hide_border=false" />
-    </div>
+    <img src="https://github-readme-stats.vercel.app/api?username=LucasMadranges&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="zumrudu-anka" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasMadranges&theme=radical&hide_border=false" />
     <br/>
     <img height=275 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMadranges&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     <img src="https://github-contributor-stats.vercel.app/api?username=LucasMadranges&bg_color=141320&color=BCFCF6&point=BCFCF6&text_color=BCFCF6&title_color=EA538D&line=EA538D&hide_border=false&radius=8" />
