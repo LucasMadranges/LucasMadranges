@@ -113,7 +113,7 @@
     <br/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasMadranges&bg_color=141320&color=BCFCF6&point=BCFCF6&title_color=EA538D&line=EA538D&hide_border=false&radius=8" width="100%"/>
     <br/>
-    <a href="https://app.daily.dev/lucasmdr"><img src="devcard.png" width="652" alt="Lucas Madranges's Dev Card"/></a>
+    <a href="https://app.daily.dev/lucasmdr"><img src="./devcard.png" width="652" alt="Lucas Madranges's Dev Card"/></a>
 </div>
 
 <h2 align="center">📝 Download my Resume 📝</h2>
