@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<h3 align="center">🌝 Front-end: </h3>
+<h3 align="center">🌝 Front-end</h3>
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
@@ -48,7 +48,7 @@
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 
-<h3 align="center">🌚 Back-end: </h3>
+<h3 align="center">🌚 Back-end</h3>
 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
@@ -59,35 +59,35 @@
 ![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=for-the-badge)
 ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge)
 
-<h3 align="center">💾 Database: </h3>
+<h3 align="center">💾 Database </h3>
 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 
-<h3 align="center">📚 Library JS: </h3>
+<h3 align="center">📚 Library JS</h3>
 
 ![Mapbox Badge](https://img.shields.io/badge/Mapbox-000?logo=mapbox&logoColor=fff&style=for-the-badge)
 ![Leaflet Badge](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=fff&style=for-the-badge)
 ![Swiper Badge](https://img.shields.io/badge/Swiper-6332F6?logo=swiper&logoColor=fff&style=for-the-badge)
 
-<h3 align="center">📱 Mobile: </h3>
+<h3 align="center">📱 Mobile</h3>
 
 ![Dart Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=for-the-badge)
 ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)
 
-<h3 align="center">💻 Desktop: </h3>
+<h3 align="center">💻 Desktop</h3>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C# Badge](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge)
 
-<h3 align="center">🧪 Tests : </h3>
+<h3 align="center">🧪 Tests</h3>
 
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)
 ![Playwright Badge](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=fff&style=for-the-badge)
 ![Vitest Badge](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff&style=for-the-badge)
 
-<h3 align="center">🛠️ Tools : </h3>
+<h3 align="center">🛠️ Tools</h3>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
