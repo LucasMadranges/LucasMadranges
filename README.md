@@ -112,16 +112,35 @@
 <h2 align="center">📊 My GitHub Stats 📊</h2>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LucasMadranges&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="zumrudu-anka" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasMadranges&theme=radical&hide_border=false" />
     <br/>
-    <img height=275 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMadranges&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    <img src="https://github-contributor-stats.vercel.app/api?username=LucasMadranges&bg_color=141320&color=BCFCF6&point=BCFCF6&text_color=BCFCF6&title_color=EA538D&line=EA538D&hide_border=false&radius=8" />
     <br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasMadranges&bg_color=141320&color=BCFCF6&point=BCFCF6&title_color=EA538D&line=EA538D&hide_border=false&radius=8" width="100%"/>
     <br/>
-    <a href="https://app.daily.dev/lucasmdr"><img src="./devcard.png" width="350" alt="Lucas Madranges's Dev Card"/></a>
 </div>
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr style="border: none;">
+    <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=LucasMadranges&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="zumrudu-anka" />
+    </td>
+    <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasMadranges&theme=radical&hide_border=false" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+        <a href="https://app.daily.dev/lucasmdr"><img src="./devcard.png" width="350" alt="Lucas Madranges's Dev Card"/></a>
+    </td>
+    <td align="center" width="50%">
+        <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMadranges&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+        <img src="https://github-contributor-stats.vercel.app/api?username=LucasMadranges&bg_color=141320&color=BCFCF6&point=BCFCF6&text_color=BCFCF6&title_color=EA538D&line=EA538D&hide_border=false&radius=8" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" width="50%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasMadranges&bg_color=141320&color=BCFCF6&point=BCFCF6&title_color=EA538D&line=EA538D&hide_border=false&radius=8" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">📝 Download my Resume 📝</h2>
 
