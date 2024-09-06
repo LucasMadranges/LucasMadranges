@@ -7,9 +7,9 @@
     I'm Lucas Madranges, I'm 21 and i'm French 🇫🇷
     <br>
     <br>
-    🏫 I'm currently taking a professional title on Web development at higher school <a href="https://infotel.com/">MyDigitalSchool</a>
+    🏫 I'm currently taking a professional title on Web development at higher school <a href="https://www.mydigitalschool.com/">MyDigitalSchool</a>
     <br>
-    💻 I'm currently a Front-end developer at <a href="http://agence-intuition.fr">Infotel Conseil</a>
+    💻 I'm currently a Front-end developer at <a href="https://infotel.com/">Infotel Conseil</a>
     <br>
     🎓 I graduated of an Advanced Technician's Certificate (BTS in French)
     <br> 
