@@ -9,7 +9,7 @@
     <br>
     🏫 I'm currently taking a professional title on Web development at higher school <a href="https://www.mydigitalschool.com/">MyDigitalSchool</a>
     <br>
-    💻 I'm currently a Front-end developer at <a href="https://infotel.com/">Infotel Conseil</a>
+    💻 I am currently looking for an apprenticeship in web development (front, back, CMS...)
     <br>
     🎓 I graduated of an Advanced Technician's Certificate (BTS in French)
     <br> 
