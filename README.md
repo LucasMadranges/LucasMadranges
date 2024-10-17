@@ -7,9 +7,9 @@
     I'm Lucas Madranges, I'm 21 and i'm French 🇫🇷
     <br>
     <br>
-    🏫 I'm currently taking a professional title on Web development at higher school <a href="https://www.mydigitalschool.com/">MyDigitalSchool</a>
+    🏫 I'm currently taking a professional title on fullsrack development at higher school <a href="https://www.mydigitalschool.com/">MyDigitalSchool</a>
     <br>
-    💻 I am currently looking for an apprenticeship in web development (Front, Back, Fullstack, CMS...)
+    💻 I am currently a fullstack developer at <a href="https://www.ailoop.io/">MyDigitalSchool</a> 
     <br>
     🎓 I graduated of an Advanced Technician's Certificate (BTS in French)
     <br> 
