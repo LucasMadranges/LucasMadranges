@@ -9,7 +9,7 @@
     <br>
     🏫 I'm currently taking a professional title on fullsrack development at higher school <a href="https://www.mydigitalschool.com/">MyDigitalSchool</a>
     <br>
-    💻 I am currently a fullstack developer at <a href="https://www.ailoop.io/">MyDigitalSchool</a> 
+    💻 I am currently a fullstack developer at <a href="https://www.ailoop.io/">Ailoop</a> 
     <br>
     🎓 I graduated of an Advanced Technician's Certificate (BTS in French)
     <br> 
