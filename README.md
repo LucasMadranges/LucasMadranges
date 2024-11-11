@@ -11,9 +11,9 @@
     <br>
     💻 I am currently a fullstack developer at <a href="https://www.ailoop.io/">Ailoop</a> 
     <br>
-    🎓 I graduated of an Advanced Technician's Certificate (BTS in French)
-    <br> 
-    ❤️ I love writing code on everything and learn about new technology
+    🎓 I graduated of an Advanced Technician's Certificate (BTS in French) and a professional title of Concepteur Développeur d'Applications
+    <br>
+    ❤️ I love writing code on everything and learn about new languages and technology
     <br>
     📫 If you want to reach me : <a href="mailto:lucas.madranges.pro@icloud.com">lucas.madranges.pro@icloud.com</a>
 </p>
