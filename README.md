@@ -154,16 +154,6 @@
   </tr>
 </table>
 
-<h2 align="center">📝 Download my Resume 📝</h2>
-
-<p align="center">📷 Scan the QR Code below or click on it 🐭</p>
-
-<div align="center" style="border-radius: 12px">
-    <a style="border-radius: 12px" href='https://drive.google.com/file/d/1kda08AA4qTIINuFkuKbY7did7UCbY_3P/view?usp=drive_link' style="height: 100px;" alt="Dev meme" align="center">
-        <img src="img/qr-code.svg" style="width: 250px; border-radius: 12px" />
-    </a>
-</div>
-
 <h2 align="center">😂 Random Dev Meme 😂</h2>
 
 <div align="center">
