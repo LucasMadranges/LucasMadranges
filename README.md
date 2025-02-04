@@ -4,7 +4,7 @@
 <p align="center">
     Hi developers 👋 
     <br>
-    I'm Lucas Madranges, I'm 21 and I'm french from Lille 🇫🇷
+    I'm Lucas Madranges, I'm 22 and I'm french from Lille 🇫🇷
     <br>
     <br>
     🏫 I'm currently taking a professional title on fullsrack development at higher school <a href="https://www.mydigitalschool.com/">MyDigitalSchool</a>
