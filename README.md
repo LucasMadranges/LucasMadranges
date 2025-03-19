@@ -7,13 +7,13 @@
     I'm Lucas Madranges, I'm 22 and I'm french from Lille 🇫🇷
     <br>
     <br>
-    🏫 I'm currently taking a professional title on fullsrack development at higher school <a href="https://www.mydigitalschool.com/">MyDigitalSchool</a>
+    🏫 I'm currently taking a professional title on fullstack development at higher school <a href="https://www.mydigitalschool.com/">MyDigitalSchool</a>
     <br>
     💻 I'm currently in an internship of fullstack developer at <a href="https://www.ailoop.io/">Ailoop</a> 
     <br>
     🎓 I'm graduated of an Advanced Technician's Certificate (BTS in french) and a professional title of Application Developer Designer (Concepteur Développeur d'Applications in french)
     <br>
-    ❤️ I love writing code on everything and learn about new languages and technology
+    ❤️ I love writing code on everything and learn about new languages, technology and frameworks
     <br>
     📫 If you want to reach me : <a href="mailto:lucas.madranges.pro@icloud.com">lucas.madranges.pro@icloud.com</a>
 </p>
