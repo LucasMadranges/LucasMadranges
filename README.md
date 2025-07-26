@@ -33,12 +33,17 @@
 
 <div align="center">
 
+<h3 align="center">🙊 Languages</h3>
+
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge)
+
 <h3 align="center">🌝 Front-end</h3>
 
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![Three.js Badge](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=for-the-badge)
 
 <h3 align="center">🌚 Back-end</h3>
@@ -52,7 +57,13 @@
 
 <h3 align="center">📱 Mobile</h3>
 
+![Expo Badge](https://img.shields.io/badge/Expo-1C2024?logo=expo&logoColor=fff&style=for-the-badge)
 ![React Native Badge](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+
+<h3 align="center">🖥️ Desktop</h3>
+
+![Electron Badge](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff&style=for-the-badge)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 
 <h3 align="center">🧪 Tests</h3>
 
@@ -69,6 +80,7 @@
 ![Amazon S3 Badge](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=fff&style=for-the-badge)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
 ![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff&style=for-the-badge)
+![Gradle Badge](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=fff&style=for-the-badge)
 
 </div>
 
