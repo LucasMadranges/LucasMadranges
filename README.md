@@ -80,6 +80,7 @@
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
 ![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff&style=for-the-badge)
 ![Gradle Badge](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=fff&style=for-the-badge)
+![JetBrains Badge](https://img.shields.io/badge/JetBrains-000?logo=jetbrains&logoColor=fff&style=for-the-badge)
 
 </div>
 
