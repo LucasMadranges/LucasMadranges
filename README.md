@@ -3,14 +3,9 @@
 <p align="center">
     Hi developers 👋 
     <br>
-    I'm Lucas Madranges, I'm 22 and I'm french from Lille 🇫🇷
+    I'm Lucas Madranges, I'm 23 and I'm french from Lille 🇫🇷
     <br>
-    <br>
-    🏫 I'm currently taking a professional title on fullstack development at higher school <a href="https://www.mydigitalschool.com/">MyDigitalSchool</a>
-    <br>
-    💻 I'm currently in an internship of fullstack developer at <a href="https://www.ailoop.io/">Ailoop</a> 
-    <br>
-    🎓 I'm graduated of an Advanced Technician's Certificate (BTS in french) and a professional title of Application Developer Designer (Concepteur Développeur d'Applications in french)
+    💻 I'm currently in an permanent contract of fullstack developer at <a href="https://www.ailoop.io/">Ailoop</a> 
     <br>
     ❤️ I love writing code on everything and learn about new languages, technology and frameworks
     <br>
